@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp theme bones\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-25 22:01+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Przemysław Szelenberger <p.szelenberger@gmail.com>\n"
+"Language-Team: fulgor <frag.fulgor@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: /home/fulgor/GIT/bones\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: /home/fulgor/GIT/bones\n"
+"X-Poedit-SearchPath-1: C:\\xampp\\htdocs\\wp\\wuj\\wp-content\\themes\\wuj\n"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/404.php:13
+msgid "Epic 404 - Article Not Found"
+msgstr "OMG 404 - nic nie znaleziono"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/404.php:19
+msgid ""
+"The article you were looking for was not found, but maybe try looking again!"
+msgstr "Artykuł, którego szukasz nie został znaleziony, może spróbuj ponownie."
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/404.php:31
+msgid "This is the 404.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-custom_type.php:19
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:52
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:24
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:25
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page-custom.php:23
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page.php:17
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/search.php:19
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-custom_type.php:32
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single.php:17
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:34
+msgid "Posted"
+msgstr "Opublikowany"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-custom_type.php:19
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:52
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:24
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page-custom.php:23
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page.php:17
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/search.php:19
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-custom_type.php:32
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single.php:17
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:34
+msgid "by"
+msgstr "przez"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-custom_type.php:42
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:77
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:50
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/search.php:41
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:57
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Starsze wpisy"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-custom_type.php:43
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:78
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:51
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/search.php:42
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:58
+msgid "Newer Entries &raquo;"
+msgstr "Nowsze wpisy &raquo;"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-custom_type.php:52
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:87
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:60
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page-custom.php:47
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page.php:39
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-custom_type.php:58
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single.php:41
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:67
+#, fuzzy
+msgid "Oops, Post Not Found!"
+msgstr "Nie znaleziono"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-custom_type.php:55
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:90
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:63
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page-custom.php:50
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page.php:42
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-custom_type.php:61
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single.php:44
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:70
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-custom_type.php:58
+#, fuzzy
+msgid "This is the error message in the custom posty type archive template."
+msgstr "To jest przykład własnego typu postu"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-event.php:33
+msgid "Events"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-event.php:43
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-category.php:48
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-category.php:87
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-tag.php:48
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-tag.php:87
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-venue.php:54
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-venue.php:93
+msgid "Later events <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-event.php:44
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-category.php:49
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-category.php:88
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-tag.php:49
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-tag.php:88
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-venue.php:55
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-venue.php:94
+msgid " <span class=\"meta-nav\">&larr;</span> Newer events"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-event.php:69
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-category.php:73
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-tag.php:73
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-venue.php:78
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-event.php:83
+msgid "Later events <span class=\"meta-nav\">&larr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-event.php:84
+msgid " <span class=\"meta-nav\">&rarr;</span> Newer events"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-event.php:92
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-category.php:97
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-tag.php:97
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-venue.php:102
+#, fuzzy
+msgid "Nothing Found"
+msgstr "Nie znaleziono"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive-event.php:96
+msgid "Apologies, but no results were found for the requested archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:11
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:24
+msgid "Posts Categorized:"
+msgstr "Kategoria:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:16
+msgid "Posts Tagged:"
+msgstr "Posty z tagami:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:25
+msgid "Posts By:"
+msgstr "Posty napisane przez:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:30
+msgid "Daily Archives:"
+msgstr "Archiwum dzienne:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:35
+msgid "Monthly Archives:"
+msgstr "Archiwum miesięczne:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:40
+msgid "Yearly Archives:"
+msgstr "Archiwum roczne:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:52
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:24
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/search.php:19
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-custom_type.php:32
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single.php:17
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:34
+msgid "filed under"
+msgstr "w kategorii"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/archive.php:93
+msgid "This is the error message in the archive.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ten post jest chroniony hasłem. Podaj je żeby zobaczyć komentarze."
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:51
+msgid "Comments are closed."
+msgstr "Komentarze zamknięte."
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:62
+msgid "Leave a Reply"
+msgstr "Zostaw odpowiedź"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Zostaw odpowiedź %s"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:78
+msgid "Logged in as"
+msgstr "Zalogowany jako"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:78
+msgid "Log out of this account"
+msgstr "Wyloguj z tego konta"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:78
+msgid "Log out"
+msgstr "Wyloguj"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:78
+msgid "&raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:85
+msgid "Name"
+msgstr "Imię"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:85
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:90
+msgid "(required)"
+msgstr "(wymagane)"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:86
+msgid "Your Name*"
+msgstr "Twoje imię"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:90
+msgid "Mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:91
+msgid "Your E-Mail*"
+msgstr "Twój email"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:92
+#, fuzzy
+msgid "(will not be published)"
+msgstr "nie będzie opublikowany"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:96
+msgid "Website"
+msgstr "WWW"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:97
+msgid "Got a website?"
+msgstr "Twoja strona WWW"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:104
+msgid "Your Comment here..."
+msgstr "Twój komentarz..."
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:107
+msgid "Submit"
+msgstr "Wyślij"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/comments.php:112
+msgid "You can use these tags"
+msgstr "Możesz użyć tych tagów"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/functions.php:135
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/functions.php:137
+msgid "(Edit)"
+msgstr "(Edytuj)"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/functions.php:141
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/functions.php:158
+msgid "Search for:"
+msgstr "Szukaj:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/functions.php:163
+msgid "Search the Site..."
+msgstr "Przeszukaj stronę..."
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/index.php:66
+msgid "This is the error message in the index.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page-custom.php:53
+msgid "This is the error message in the page-custom.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/page.php:45
+msgid "This is the error message in the page.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/search.php:51
+msgid "Sorry, No Results."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/search.php:54
+msgid "Try your search again."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/search.php:57
+msgid "This is the error message in the search.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/sidebar.php:12
+msgid "Please activate some Widgets."
+msgstr "Proszę, włącz jakieś widgety."
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-custom_type.php:64
+msgid "This is the error message in the single-custom_type.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-event.php:49
+#, php-format
+msgid ""
+"This event is running from %1$s until %2$s. It is next occurring at %3$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-event.php:53
+#, php-format
+msgid "This event finished on %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-event.php:58
+#, php-format
+msgid "This event is on %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-event.php:67
+#, fuzzy
+msgid "Pages:"
+msgstr "Strona %s"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-event.php:76
+#, php-format
+msgid ""
+"This event was posted in %1$s by <a href=\"%5$s\">%4$s</a>. Bookmark the <a "
+"href=\"%2$s\" title=\"Permalink to %3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-event.php:78
+#, php-format
+msgid ""
+"This event was posted by <a href=\"%5$s\">%4$s</a>. Bookmark the <a href="
+"\"%2$s\" title=\"Permalink to %3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single-event.php:89
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:29
+msgid "Edit"
+msgstr "Edytuj"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/single.php:47
+msgid "This is the error message in the single.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-custom_cat.php:73
+msgid "This is the error message in the taxonomy-custom_cat.php template."
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-category.php:31
+#, fuzzy, php-format
+msgid "Event Category Archives: %s"
+msgstr "Archiwum roczne:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-category.php:101
+msgid "Apologies, but no events were found for the requested category. "
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-tag.php:31
+#, fuzzy, php-format
+msgid "Event Tag Archives: %s"
+msgstr "Archiwum roczne:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-tag.php:101
+msgid "Apologies, but no events were found for the requested tag. "
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-venue.php:31
+#, php-format
+msgid "Events at: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/taxonomy-event-venue.php:106
+msgid "Apologies, but no events were found for the requested venue. "
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/bones.php:217
+msgid "The Main Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/bones.php:218
+msgid "Footer Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:24
+msgid "Custom Types"
+msgstr "Niestandardowe typy"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:25
+msgid "Custom Post"
+msgstr "Niestandardowe posty"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:26
+#, fuzzy
+msgid "All Custom Posts"
+msgstr "Niestandardowe posty"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:27
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:28
+msgid "Add New Custom Type"
+msgstr "Dodaj nowy niestandardowy typ"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:30
+msgid "Edit Post Types"
+msgstr "Edytuj typy postów"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:31
+msgid "New Post Type"
+msgstr "Nowy typ postu"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:32
+msgid "View Post Type"
+msgstr "Zobacz typ postu"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:33
+msgid "Search Post Type"
+msgstr "Szukaj typu postu"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:34
+msgid "Nothing found in the Database."
+msgstr "Brak wpisów w bazie."
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:35
+msgid "Nothing found in Trash"
+msgstr "Brak wpisów w koszu"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:38
+msgid "This is the example custom post type"
+msgstr "To jest przykład własnego typu postu"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:75
+msgid "Custom Categories"
+msgstr "Niestandardowe kategorie"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:76
+msgid "Custom Category"
+msgstr "Niestandardowa kategoria"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:77
+msgid "Search Custom Categories"
+msgstr "Szukaj niestandardowych kategorii"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:78
+msgid "All Custom Categories"
+msgstr "Wszystkie niestandardowe kategorie:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:79
+msgid "Parent Custom Category"
+msgstr "Niestandardowa kategoria (rodzic)"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:80
+msgid "Parent Custom Category:"
+msgstr "Niestandardowa kategoria (rodzic):"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:81
+msgid "Edit Custom Category"
+msgstr "Edytuj niestandardową kategorię"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:82
+msgid "Update Custom Category"
+msgstr "Aktualizuj niestandardową kategorię"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:83
+msgid "Add New Custom Category"
+msgstr "Dodaj nową niestandardową kategorię"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:84
+msgid "New Custom Category Name"
+msgstr "Nazwa nowej niestandardowej kategorii"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:97
+msgid "Custom Tags"
+msgstr "Niestandardowe tagi:"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:98
+msgid "Custom Tag"
+msgstr "Niestandardowy tag"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:99
+msgid "Search Custom Tags"
+msgstr "Szukaj niestandardowych tagów"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:100
+msgid "All Custom Tags"
+msgstr "Wszystkie niestandardowe tagi"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:101
+msgid "Parent Custom Tag"
+msgstr "Niestandardowy tag (rodzic)"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:102
+msgid "Parent Custom Tag:"
+msgstr "Niestandardowy tag (rodzic):"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:103
+msgid "Edit Custom Tag"
+msgstr "Edytuj niestandardowy tag"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:104
+msgid "Update Custom Tag"
+msgstr "Aktualizuj niestandardowy tag"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:105
+msgid "Add New Custom Tag"
+msgstr "Dodaj nowy niestandardowy tag"
+
+#: C:\xampp\htdocs\wp\wuj\wp-content\themes\wuj/library/custom-post-type.php:106
+msgid "New Custom Tag Name"
+msgstr "Nazwa nowego niestandardowego tagu"
+
+#~ msgid "Response"
+#~ msgstr "Odpowiedź"
+
+#~ msgid "Responses"
+#~ msgstr "Odpowiedzi"
+
+#~ msgid "One"
+#~ msgstr "1"
+
+#~ msgid "No"
+#~ msgstr "Nie"
+
+#~ msgid "to"
+#~ msgstr "do"
+
+#~ msgid "You must be"
+#~ msgstr "Musisz być"
+
+#~ msgid "logged in"
+#~ msgstr "zalogowany"
+
+#~ msgid "to post a comment"
+#~ msgstr "by skomentować"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Read more"
+#~ msgstr "Czytaj dalej"
+
+#~ msgid "Search Results for:"
+#~ msgstr "Wyniki wyszukiwania dla:"
+
+#~ msgid "Read more on"
+#~ msgstr "Czytaj dalej na"
+
+#~ msgid "Tag"
+#~ msgstr "Tag"
+
+#~ msgid "Tags"
+#~ msgstr "Tagi"
+
+#~ msgid "Read the rest of this entry"
+#~ msgstr "Przeczytaj resztę tego wpisu"
+
+#~ msgid "Sorry, no attachments matched your criteria."
+#~ msgstr "Nie ma załączników spełniających podane kryteria."
+
+#~ msgid "is powered by"
+#~ msgstr "na"
+
+#~ msgid "Sorry, but the requested resource was not found on this site."
+#~ msgstr "Żądany zasób nie został znaleziony."
+
+#~ msgid "Read more &raquo;"
+#~ msgstr "Czytaj dalej &raquo;"
