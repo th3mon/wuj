@@ -49,8 +49,10 @@ require_once('library/translation/translation.php'); // this comes turned off by
 /************* THUMBNAIL SIZE OPTIONS *************/
 
 // Thumbnail sizes
+// add_image_size( $name, $width, $height, $crop );
 add_image_size( 'bones-thumb-600', 600, 150, true );
 add_image_size( 'bones-thumb-300', 300, 100, true );
+add_image_size( 'wuj-thumb-194-300', 194, 300, true );
 /* 
 to add more sizes, simply copy a line from above 
 and change the dimensions & name. As long as upload

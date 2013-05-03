@@ -26,8 +26,10 @@
 						    </header> <!-- end article header -->
 					
 						    <section class="entry-content clearfix">
-							    <?php the_post_thumbnail( 'bones-thumb-300' ); ?>
-							    <?php echo get_the_excerpt(); ?>
+							    <?php
+							    	the_post_thumbnail( 'wuj-thumb-300-194', array('class' => 'wp-caption alignleft') ); 
+							    	the_excerpt();
+							    ?>
 						    </section> <!-- end article section -->
 						
 						    <footer class="article-footer">
