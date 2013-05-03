@@ -26,7 +26,7 @@
 						    </header> <!-- end article header -->
 					
 						    <section class="entry-content clearfix">
-							    <?php //the_content(); ?>
+							    <?php the_post_thumbnail( 'bones-thumb-300' ); ?>
 							    <?php echo get_the_excerpt(); ?>
 						    </section> <!-- end article section -->
 						
