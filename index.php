@@ -13,6 +13,14 @@
 							}
 						?>
 
+						<div id="mainSlider">
+							<?php
+							if( function_exists( 'dynamic_content_gallery' ) ) {
+								dynamic_content_gallery();
+							}
+							?>
+						</div>
+
 					    <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 					
 					    <article id="post-<?php the_ID(); ?>" <?php post_class('clearfix'); ?> role="article">
