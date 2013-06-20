@@ -431,9 +431,15 @@ and more scalable.
 			and floating images at the next breakpoint,
 			but it's up to you. Feel free to change it up.
 			*/
-			.alignleft, img.alignleft {}
-			.alignright, img.alignright {}
-			.aligncenter, img.aligncenter {}
+			.alignleft, img.alignleft {
+				max-width: 300px;
+			}
+			.alignright, img.alignright {
+				max-width: 300px;
+			}
+			.aligncenter, img.aligncenter {
+				max-width: 300px;
+			}
 
 			video, object {
 				max-width: 100%;
@@ -1064,4 +1070,7 @@ and more scalable.
 
 .carouselContainer {
 	display: none;
+}
+#mainSlider, .mainSlider {
+	margin: 10px auto;
 }
