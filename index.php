@@ -13,7 +13,7 @@
 							}
 						?>
 
-						<div id="mainSlider">
+						<div id="mainSlider" class="mainSlider">
 							<?php
 							if( function_exists( 'dynamic_content_gallery' ) ) {
 								dynamic_content_gallery();
